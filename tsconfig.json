@@ -12,7 +12,7 @@
     "baseUrl": "./",
     "incremental": true,
     "skipLibCheck": true,
-    "stric": true,
+    "strictBuiltinIteratorReturn": true,
     "strictNullChecks": true,
     "noImplicitAny": false,
     "strictBindCallApply": false,
